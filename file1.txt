@@ -1,0 +1,3 @@
+this is a test
+to be read out
+and written to file2.txt
